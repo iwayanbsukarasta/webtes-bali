@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce1ccfce87279c07b2912688a268dd04",
+    "revision": "78376d81b709bfafac55fd50596ab775",
     "url": "/webtes-bali/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webtes-bali/static/css/2.0adb9466.chunk.css"
   },
   {
-    "revision": "51f40fb467f5d0744364",
+    "revision": "5427be0868122c9ceeb2",
     "url": "/webtes-bali/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webtes-bali/static/js/2.805e2ef6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "51f40fb467f5d0744364",
-    "url": "/webtes-bali/static/js/main.8de8c307.chunk.js"
+    "revision": "5427be0868122c9ceeb2",
+    "url": "/webtes-bali/static/js/main.288259f0.chunk.js"
   },
   {
     "revision": "9ef36d35d0623f7ef6d4",
