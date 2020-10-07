@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/webtes-bali/static/css/main.5f361e03.chunk.css",
+    "main.js": "/webtes-bali/static/js/main.8de8c307.chunk.js",
+    "main.js.map": "/webtes-bali/static/js/main.8de8c307.chunk.js.map",
+    "runtime-main.js": "/webtes-bali/static/js/runtime-main.54dd3ac7.js",
+    "runtime-main.js.map": "/webtes-bali/static/js/runtime-main.54dd3ac7.js.map",
+    "static/css/2.0adb9466.chunk.css": "/webtes-bali/static/css/2.0adb9466.chunk.css",
+    "static/js/2.805e2ef6.chunk.js": "/webtes-bali/static/js/2.805e2ef6.chunk.js",
+    "static/js/2.805e2ef6.chunk.js.map": "/webtes-bali/static/js/2.805e2ef6.chunk.js.map",
+    "index.html": "/webtes-bali/index.html",
+    "precache-manifest.db34a32c0948dec020bf7633f1dd026f.js": "/webtes-bali/precache-manifest.db34a32c0948dec020bf7633f1dd026f.js",
+    "service-worker.js": "/webtes-bali/service-worker.js",
+    "static/css/2.0adb9466.chunk.css.map": "/webtes-bali/static/css/2.0adb9466.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/webtes-bali/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.805e2ef6.chunk.js.LICENSE.txt": "/webtes-bali/static/js/2.805e2ef6.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/webtes-bali/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54dd3ac7.js",
+    "static/css/2.0adb9466.chunk.css",
+    "static/js/2.805e2ef6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8de8c307.chunk.js"
+  ]
+}
