@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/webtest-bali/static/css/main.5f361e03.chunk.css",
-    "main.js": "/webtest-bali/static/js/main.bea62b1b.chunk.js",
-    "main.js.map": "/webtest-bali/static/js/main.bea62b1b.chunk.js.map",
-    "runtime-main.js": "/webtest-bali/static/js/runtime-main.e0037a08.js",
-    "runtime-main.js.map": "/webtest-bali/static/js/runtime-main.e0037a08.js.map",
-    "static/css/2.a21a5073.chunk.css": "/webtest-bali/static/css/2.a21a5073.chunk.css",
-    "static/js/2.805e2ef6.chunk.js": "/webtest-bali/static/js/2.805e2ef6.chunk.js",
-    "static/js/2.805e2ef6.chunk.js.map": "/webtest-bali/static/js/2.805e2ef6.chunk.js.map",
-    "index.html": "/webtest-bali/index.html",
-    "precache-manifest.0f06541b018b928be58fcae7328369e8.js": "/webtest-bali/precache-manifest.0f06541b018b928be58fcae7328369e8.js",
-    "service-worker.js": "/webtest-bali/service-worker.js",
-    "static/css/2.a21a5073.chunk.css.map": "/webtest-bali/static/css/2.a21a5073.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/webtest-bali/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.805e2ef6.chunk.js.LICENSE.txt": "/webtest-bali/static/js/2.805e2ef6.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/webtest-bali/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/webtes-bali/static/css/main.5f361e03.chunk.css",
+    "main.js": "/webtes-bali/static/js/main.8de8c307.chunk.js",
+    "main.js.map": "/webtes-bali/static/js/main.8de8c307.chunk.js.map",
+    "runtime-main.js": "/webtes-bali/static/js/runtime-main.54dd3ac7.js",
+    "runtime-main.js.map": "/webtes-bali/static/js/runtime-main.54dd3ac7.js.map",
+    "static/css/2.0adb9466.chunk.css": "/webtes-bali/static/css/2.0adb9466.chunk.css",
+    "static/js/2.805e2ef6.chunk.js": "/webtes-bali/static/js/2.805e2ef6.chunk.js",
+    "static/js/2.805e2ef6.chunk.js.map": "/webtes-bali/static/js/2.805e2ef6.chunk.js.map",
+    "index.html": "/webtes-bali/index.html",
+    "precache-manifest.db34a32c0948dec020bf7633f1dd026f.js": "/webtes-bali/precache-manifest.db34a32c0948dec020bf7633f1dd026f.js",
+    "service-worker.js": "/webtes-bali/service-worker.js",
+    "static/css/2.0adb9466.chunk.css.map": "/webtes-bali/static/css/2.0adb9466.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/webtes-bali/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.805e2ef6.chunk.js.LICENSE.txt": "/webtes-bali/static/js/2.805e2ef6.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/webtes-bali/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.e0037a08.js",
-    "static/css/2.a21a5073.chunk.css",
+    "static/js/runtime-main.54dd3ac7.js",
+    "static/css/2.0adb9466.chunk.css",
     "static/js/2.805e2ef6.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.bea62b1b.chunk.js"
+    "static/js/main.8de8c307.chunk.js"
   ]
 }
